@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Tianya, and I am an CMU trained software engineer interested in all things Software Development & Data Science!
+
+- 🔭 I’m currently working on Reality AI, building an AI-powered educator agent for the general public.
+- 🌱 I recently built a mobile app to browse and plan users' trips, check it out [here](https://github.com/tianyachen/trip-planner)
+- 👯 I’m looking to collaborate on all new apps using AI and AI agents!
+  - Send me ideas to tianyakc@gmai.com
+
 <!--
 **tianyachen/tianyachen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
